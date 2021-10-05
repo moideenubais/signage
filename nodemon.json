@@ -1,0 +1,10 @@
+{
+    "env": {
+        "MONGO_URL": "mongodb://localhost:27017/corevine",
+        "JWT_KEY": "MySecretCorevineJwtKey",
+        "CLIENT_URL":"google.com",
+        "PASSWORD_RESET_JWT_KEY":"MySecretCorevineJwtKeyPasswordReset",
+        "NODEMAILER_EMAIL": "ubiveiz@gmail.com",
+        "NODEMAILER_PASSWORD":"9995559990"
+    }
+}
